@@ -1,0 +1,6 @@
+#Fichero
+#Tue Oct 26 19:00:46 CEST 2021
+port=5858
+standalone=yes
+lanzamiento=11/08/2021
+version=1.2.3
